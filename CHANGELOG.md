@@ -1,21 +1,21 @@
-# PD2Basic: история изменений
+# Changelog
 
 ## 1.2.1
-- Мод обновляется сам через SuperBLT: о новой версии появится уведомление в меню игры.
+- The mod now updates itself through SuperBLT
 
 ## 1.2.0
-- Петли камер разделены на две настройки: без лимита по количеству и бесконечная длительность.
-- Новые цвета ESP: охрана с пейджером оранжевая, полиция и охрана без пейджера зелёные, гражданские белые.
-- Зацикленные камеры в ESP отдельным цветом и мигают перед концом петли. Отключённые камеры не подсвечиваются.
-- Таймеры на экране: петли камер, пейджеры, ECM-глушилки, обратная связь ECM и карманный ECM.
-- Новое действие и горячая клавиша «Упаковать все тела».
+- Camera loops are split into two options, unlimited loop count and endless loop duration
+- New ESP colors. Guards with a pager are orange, police and guards without a pager are green, civilians are white
+- Looped cameras have their own ESP color and blink shortly before the loop ends. Cameras that were turned off are no longer highlighted
+- On screen timers for camera loops, pagers, ECM jammers, ECM feedback and pocket ECM
+- New action and hotkey to bag all corpses
 
 ## 1.1.0
-- ESP: носители ключ-карт и других предметов отдельным цветом, связанные заложники и сломанные камеры не подсвечиваются.
-- Взаимодействие с чем угодно: без ключ-карты, досок, деплойера или навыка.
-- Без штрафа за убийство гражданских.
-- Бесплатные покупки в главном меню.
-- Обновлены шапка окна и экран горячих клавиш.
+- ESP highlights civilians and guards carrying a keycard or another mission item. Tied hostages and destroyed cameras are no longer highlighted
+- Interact with anything, even without the keycard, planks, deployable or skill it needs
+- No penalty for killing civilians
+- Free purchases in the main menu
+- Updated window header and a single hotkeys panel
 
 ## 1.0.0
-- Первый выпуск.
+- First release

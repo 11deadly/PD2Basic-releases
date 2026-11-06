@@ -1,14 +1,18 @@
-# PD2Basic: выпуски
+# PD2Basic
 
-Здесь лежат готовые выпуски трейнера PD2Basic для PAYDAY 2 (SuperBLT). Этот репозиторий использует встроенное автообновление SuperBLT, поэтому установленный мод сам узнаёт о новой версии.
+A basic trainer for PAYDAY 2 made by deadly. This repository only holds release builds, so the mod can update itself through SuperBLT.
 
-- [PD2Basic.zip](https://raw.githubusercontent.com/11deadly/PD2Basic-releases/main/PD2Basic.zip): последняя версия мода.
-- [CHANGELOG.md](CHANGELOG.md): история изменений.
+Download the latest version here
+https://raw.githubusercontent.com/11deadly/PD2Basic-releases/main/PD2Basic.zip
 
-## Установка
+## Installation
 
-1. Установи SuperBLT.
-2. Распакуй `PD2Basic.zip` в папку `PAYDAY 2\mods\`. Должно получиться `PAYDAY 2\mods\PD2Basic\mod.txt`.
-3. Запусти игру и открой окно трейнера клавишей `NUM 1` или через Options > Mod Options > PD2Basic.
+1. Install SuperBLT
+2. Extract PD2Basic.zip into your PAYDAY 2/mods folder so you end up with PAYDAY 2/mods/PD2Basic/mod.txt
+3. Start the game and press NUM 1 to open the trainer, or go to Options > Mod Options > PD2Basic
 
-Трейнер не работает с VAC и Steam и не обходит античит игры. В публичных лобби читы в ограблении автоматически отключаются.
+Starting with 1.2.1 the mod checks for new versions on its own and SuperBLT will offer the update in the main menu. Your settings, presets and hotkeys are kept in mods/saves/pd2basic.json and survive updates.
+
+## Please note
+
+The trainer does not touch VAC or Steam and does not bypass the game's anti cheat. Cheats are turned off automatically in public lobbies. Back up your save before changing your profile (money, level, inventory).
